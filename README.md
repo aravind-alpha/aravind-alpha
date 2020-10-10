@@ -67,8 +67,8 @@ Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chenna
 ### ⚡️ Github Stats:
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravind-alpha&show_icons=true&hide_border=false&theme=dracula&layout=compact&langs_count=4" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aravind-alpha&show_icons=true&hide_border=false&theme=dracula" />
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravind-alpha&show_icons=true&hide_border=false&theme=dracula&layout=compact&langs_count=4" />
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=aravind-alpha&show_icons=true&hide_border=false&theme=dracula" />
 </div>
 
 <div align="center">

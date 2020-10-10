@@ -46,7 +46,7 @@ Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chenna
 
 - 👯 I’m looking to collaborate on JavaScript Projects 🤞🏼
 - 🛠 &nbsp; I’m currently working with JavaScript and React 👻
-- 🚀 &nbsp; Focussing only on UI Engineering. Mad about Web Performance 🧐
+- 🚀 &nbsp; Focussing mainly 🎯 on UI Engineering. Mad about Web Performance 🧐
 - 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/aravind-alpha) 🤓
 - 💬 &nbsp; Connect with me on Twitter [here](https://twitter.com/aravindviewz)! 🤗
 - 👾 &nbsp; JavaScript is 💛
@@ -54,15 +54,28 @@ Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chenna
 
 ### Languages and Tools:
 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="css3"></code>
-<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="40" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="40" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+### ⚡️ Github Stats:
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aravind-alpha&show_icons=true&hide_border=true&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravind-alpha&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=radical&layout=compact&langs_count=4"/>
+</div>
+
+<div align="center">
+
+#### If you like any of the Projects or useful in any way, show some love by starring the repositories! It helps. 🙃
+
+</div>

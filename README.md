@@ -44,10 +44,25 @@ Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chenna
 
 ### Talking about Personal Stuffs:
 
-- 🔭 I’m currently working on Interesting Personal Project 😉
+- 👯 I’m looking to collaborate on JavaScript Projects 🤞🏼
 - 🛠 &nbsp; I’m currently working with JavaScript and React 👻
 - 🚀 &nbsp; Focussing only on UI Engineering. Mad about Web Performance 🧐
 - 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/aravind-alpha) 🤓
 - 💬 &nbsp; Connect with me on Twitter [here](https://twitter.com/aravindviewz)! 🤗
-- 👾 &nbsp; Equal is Not Always Equal in Javascript. But JavaScript is 💛
-- 📫 &nbsp; Mail me here: s.aravindviews@gmail.com 📮
+- 👾 &nbsp; JavaScript is 💛
+- 📮 &nbsp; Mail me here: s.aravindviews@gmail.com
+
+### Languages and Tools:
+
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="css3"></code>
+<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="40" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="expressjs"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img height="40" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>

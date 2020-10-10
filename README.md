@@ -38,6 +38,16 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer 🥳 from Chennai,India, focussing mainly on UI Engineering 💻 🤩
+Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chennai,India. Focussing mainly on UI Engineering ✨ 🤩
 
   <img align="right" alt="GIF" src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/workplace.gif?raw=true" width="500" height="320" />
+
+### Talking about Personal Stuffs:
+
+- 🔭 I’m currently working on Interesting Personal Project 😉
+- 🛠 &nbsp; I’m currently working with JavaScript and React 👻
+- 🚀 &nbsp; Focussing only on UI Engineering. Mad about Web Performance 🧐
+- 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/aravind-alpha) 🤓
+- 💬 &nbsp; Connect with me on Twitter [here](https://twitter.com/aravindviewz)! 🤗
+- 👾 &nbsp; Equal is Not Always Equal in Javascript. But JavaScript is 💛
+- 📫 &nbsp; Mail me here: s.aravindviews@gmail.com 📮

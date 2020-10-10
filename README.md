@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Aravind's FreeCodeCamp" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" />
 </a>
 
-#### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=aravind-alpha.aravind-alpha&style=flat-square&color=ee6c8f)
+![](https://visitor-badge.glitch.me/badge?page_id=aravind-alpha.aravind-alpha&style=flat-square&color=ee6c8f)
 
 <br />
 

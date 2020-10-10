@@ -30,11 +30,6 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/aravind_viewz/">
   <img align="left" alt="Aravind's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.freecodecamp.org/aravind-alpha">
-  <img align="left" alt="Aravind's FreeCodeCamp" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=aravind-alpha.aravind-alpha&style=flat-square&color=ee6c8f)
 
 <br />
 

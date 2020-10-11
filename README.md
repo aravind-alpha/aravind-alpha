@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chennai,India. Focussing mainly on UI Engineering ✨ 🤩
 
-  <img align="right" alt="GIF" src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/workplace.gif?raw=true" width="450" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/workplace.gif?raw=true" width="450" height="280" />
 
 ### Talking about Personal Stuffs:
 

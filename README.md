@@ -47,7 +47,7 @@ Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chenna
 - 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/aravind-alpha) 🤓
 - 💬 &nbsp; Connect with me on Twitter [here](https://twitter.com/aravindviewz)! 🤗
 - 👾 &nbsp; JavaScript is 💛
-- 📮 &nbsp; Mail me here: s.aravindviews@gmail.com
+- 📮 &nbsp; Mail me here: webdev.aravind@gmail.com
 
 ### Languages and Tools:
 

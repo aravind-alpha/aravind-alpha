@@ -1,19 +1,18 @@
 #### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"/>
+
 <a href="https://aravind.netlify.app/">
-  <img align="left" alt="Aravind's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
+  <img align="left" alt="Aravind's Portfolio" width="40px" src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/portfolio.png" />
 </a>
 <a href="https://twitter.com/aravindviewz">
-  <img align="left" alt="Aravind's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Aravind's Twitter" width="40px" src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/araivnd-alpha/">
-  <img align="left" alt="Aravind's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/aravind_viewz">
-  <img align="left" alt="Aravind's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Aravind's LinkedIn" width="40px" src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/aravind_viewz/">
-  <img align="left" alt="Aravind's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Aravind's Instagram" width="40px" src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/instagram.png" />
 </a>
 
 ![]()

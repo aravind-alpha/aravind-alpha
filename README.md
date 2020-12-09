@@ -12,7 +12,7 @@
   <img align="left" alt="Aravind's LinkedIn" width="40px" src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/aravind_viewz/">
-  <img align="left" alt="Aravind's Instagram" width="40px" src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/instagram.png" />
+  <img align="left" alt="Aravind's Instagram" width="50px" src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/instagram.png" />
 </a>
 
 ![]()

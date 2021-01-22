@@ -24,7 +24,7 @@ Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chenna
 - 🎯 &nbsp; Focussing mainly on UI Engineering. ✨
 - 🚀 &nbsp; Mad about Web Performance 🧐
 - 👨🏻‍💻 &nbsp; Most of my projects are available: [Repositories](https://github.com/aravind-alpha?tab=repositories) 🤓
-- 💬 &nbsp; Connect with me on Twitter [@aravindviewz](https://twitter.com/aravindviewz)! 🤗
+- 💬 &nbsp; Connect with me on Twitter [@aravindviewz](https://twitter.com/aravindviewz) 🤗
 - 👾 &nbsp; JavaScript is 💛
 - 📮 &nbsp; Mail me here: webdev.aravind@gmail.com
 
@@ -39,7 +39,7 @@ Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chenna
 <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/css3-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/sass-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/mongodb-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/mysql-original-wordmark.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/mysql-original-wordmark.svg" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/python-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### ⚡️ Github Stats:

@@ -20,11 +20,11 @@ Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chenna
 ### Talking about Personal Stuffs:
 
 - 👯 &nbsp; Interested to collaborate on JavaScript Projects 🤞🏼
-- 🛠 &nbsp; I’m currently working with JavaScript and React 👻
+- 🛠 &nbsp; I’m currently working with React 🤩
 - 🎯 &nbsp; Focussing mainly on UI Engineering. ✨
 - 🚀 &nbsp; Mad about Web Performance 🧐
-- 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/aravind-alpha?tab=repositories) 🤓
-- 💬 &nbsp; Connect with me on Twitter [here](https://twitter.com/aravindviewz)! 🤗
+- 👨🏻‍💻 &nbsp; Most of my projects are available: [Repositories](https://github.com/aravind-alpha?tab=repositories) 🤓
+- 💬 &nbsp; Connect with me on Twitter [@aravindviewz](https://twitter.com/aravindviewz)! 🤗
 - 👾 &nbsp; JavaScript is 💛
 - 📮 &nbsp; Mail me here: webdev.aravind@gmail.com
 

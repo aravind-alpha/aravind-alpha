@@ -40,7 +40,6 @@ Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chenna
 <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/css3-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/sass-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/mongodb-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/webpack-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/mysql-original-wordmark.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/python-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

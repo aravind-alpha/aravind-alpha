@@ -13,15 +13,15 @@
 ![]()
 <br />
 
-Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chennai,India. Focussing mainly on UI Engineering ✨ 🤩
+Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chennai, India. 
 
   <img align="right" alt="GIF" src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/workplace.gif?raw=true" width="450" height="280" />
 
 ### Talking about Personal Stuffs:
 
 - 👯 &nbsp; Interested to collaborate on JavaScript Projects 🤞🏼
-- 🛠 &nbsp; I’m currently working with React 🤩
-- 🎯 &nbsp; Focussing mainly on UI Engineering. ✨
+- 🛠 &nbsp; I’m currently working with React.js, Node.js and AWS 🤩
+- 🎯 &nbsp; Focussing mainly on Web and Microservices ✨
 - 🚀 &nbsp; Mad about Web Performance 🧐
 - 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/aravind-alpha?tab=repositories) 🤓
 - 💬 &nbsp; Connect with me on Twitter [@aravindviewz](https://twitter.com/aravindviewz) 🤗

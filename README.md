@@ -6,7 +6,7 @@
 <a href="https://twitter.com/aravindviewz">
   <img align="left" alt="Aravind's Twitter" width="30px" src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/twitter.png" />
 </a>
-<a href="https://www.linkedin.com/in/araivnd-alpha/">
+<a href="https://www.linkedin.com/in/aravind-alpha/">
   <img align="left" alt="Aravind's LinkedIn" width="30px" src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/linkedin.png" />
 </a>
 

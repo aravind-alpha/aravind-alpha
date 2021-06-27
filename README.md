@@ -21,7 +21,7 @@ Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chenna
 
 - 👯 &nbsp; Interested to collaborate on JavaScript Projects 🤞🏼
 - 🛠 &nbsp; Mostly working with React.js, Node.js and AWS 🤩
-- 🎯 &nbsp; Focussing mainly on Web and Microservices ✨
+- 🎯 &nbsp; Focussing mainly on Web ✨
 - 🚀 &nbsp; Mad about Web Performance 🧐
 - 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/aravind-alpha?tab=repositories) 🤓
 - 💬 &nbsp; Connect with me on Twitter [@aravindviewz](https://twitter.com/aravindviewz) 🤗

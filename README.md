@@ -19,7 +19,7 @@ Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chenna
 
 ### Talking about Personal Stuffs:
 
-- 👯 &nbsp; Interested to collaborate on JavaScript Projects 🤞🏼
+- 👯 &nbsp; Open to JavaScript Projects 🤞🏼
 - 🛠 &nbsp; Working with Web Components & React.js 🤩
 - 🎯 &nbsp; Focussing mainly on Web ✨
 - 🚀 &nbsp; Mad about Web Performance 🧐
@@ -33,8 +33,9 @@ Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chenna
 <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/typescript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/react-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/stenciljs-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/nodejs-original-wordmark.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/sass-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/storybook-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/storybook-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/html5-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/css3-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/javascript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

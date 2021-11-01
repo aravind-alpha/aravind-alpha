@@ -19,7 +19,7 @@ Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chenna
 
 ### Talking about Personal Stuffs:
 
-- 👯 &nbsp; Open to work and collaborate in JavaScript Projects 🤞🏼
+- 👯 &nbsp; Open to work in JavaScript Projects 🤞🏼
 - 🛠 &nbsp; Working with Web Components & React.js 🤩
 - 🎯 &nbsp; Focussing mainly on Web Engineering ✨
 - 🚀 &nbsp; Great with CSS & optimizing Web Performance 🧐

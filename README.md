@@ -41,7 +41,7 @@ Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chenna
 <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/graphql-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/webpack-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/mongodb-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/aws-icon.svg" width="60px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/aws-icon.svg" width="60px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/python-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  -->
 <!-- <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/storybook-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- <img src="https://github.com/aravind-alpha/aravind-alpha/blob/main/assets/mysql-original-wordmark.svg" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->

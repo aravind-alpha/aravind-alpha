@@ -22,10 +22,10 @@ Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chenna
 - 👯 &nbsp; Open to work in JavaScript Projects 🤞🏼
 - 🛠 &nbsp; Working with Web Components & React.js 🤩
 - 🎯 &nbsp; Focussing mainly on Web Engineering ✨
-- 🚀 &nbsp; Great with CSS & optimizing Web Performance 🧐
+- 🚀 &nbsp; Great with CSS & Web Performance 🧐
 - 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/aravind-alpha?tab=repositories) 🤓
 - 💬 &nbsp; Connect with me on Twitter [@aravindviewz](https://twitter.com/aravindviewz) 🤗
-- 👾 &nbsp; TypeScript and CSS is 💛
+- 👾 &nbsp; JavaScript and CSS is 💛
 - 📮 &nbsp; Mail me here: webdev.aravind@gmail.com
 
 ### Tech Stack:

@@ -3,7 +3,7 @@
 <a href="https://aravind.netlify.app/">
   <img align="left" alt="Aravind's Portfolio" width="30px" src="https://github.com/frontend-engineer/frontend-engineer/blob/main/assets/portfolio.png" />
 </a>
-<a href="https://twitter.com/aravindviewz">
+<a href="https://twitter.com/frontendengr">
   <img align="left" alt="Aravind's Twitter" width="30px" src="https://github.com/frontend-engineer/frontend-engineer/blob/main/assets/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/frontend-engineer/">
@@ -24,7 +24,7 @@ Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chenna
 - 🎯 &nbsp; Focussing mainly on Web Engineering ✨
 - 🚀 &nbsp; Great with CSS & Web Performance 🧐
 - 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/frontend-engineer?tab=repositories) 🤓
-- 💬 &nbsp; Connect with me on Twitter [@aravindviewz](https://twitter.com/aravindviewz) 🤗
+- 💬 &nbsp; Connect with me on Twitter [@frontendengr](https://twitter.com/frontendengr) 🤗
 - 👾 &nbsp; JavaScript and CSS is 💛
 - 📮 &nbsp; Mail me here: webdev.aravind@gmail.com
 

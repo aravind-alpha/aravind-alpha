@@ -55,6 +55,6 @@ Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chenna
 
 <div align="center">
 
-#### If you like any of my Projects or if it is useful in any way, show some love by starring the repositories! It helps. 🙃
+#### If you like any of my Projects or if it is useful in any way, show some love by giving stars to the repo! It helps. 🙃
 
 </div>

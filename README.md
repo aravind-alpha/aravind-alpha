@@ -24,7 +24,7 @@ Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chenna
 - 🎯 &nbsp; Focussing mainly on Web Engineering ✨
 - 🚀 &nbsp; Great with CSS & Web Performance 🧐
 - 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/engineeringwitharavind?tab=repositories) 🤓
-- 💬 &nbsp; Connect with me on Twitter [@frontendengr](https://twitter.com/frontendengr) 🤗
+- 💬 &nbsp; Connect with me on Twitter [@EngineeringUX](https://twitter.com/EngineeringUX) 🤗
 - 👾 &nbsp; JavaScript and CSS is 💛
 - 📮 &nbsp; Mail me here: webdev.aravind@gmail.com
 

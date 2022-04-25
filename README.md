@@ -3,7 +3,7 @@
 <a href="https://aravind.netlify.app/">
   <img align="left" alt="Aravind's Portfolio" width="30px" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/portfolio.png" />
 </a>
-<a href="https://twitter.com/frontendengr">
+<a href="https://twitter.com/EngineeringUX">
   <img align="left" alt="Aravind's Twitter" width="30px" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/engineeringwitharavind/">

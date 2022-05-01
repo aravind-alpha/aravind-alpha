@@ -1,5 +1,8 @@
 #### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+I am [Aravind](https://aravind.netlify.app/), a Software Engineer from Chennai, India. 
+<br />
+
 <a href="https://aravind.netlify.app/">
   <img align="left" alt="Aravind's Portfolio" width="30px" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/portfolio.png" />
 </a>
@@ -10,25 +13,20 @@
   <img align="left" alt="Aravind's LinkedIn" width="30px" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/linkedin.png" />
 </a>
 
-![]()
-<br />
-
-Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chennai, India. 
-
   <img align="right" alt="GIF" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/workplace.gif?raw=true" width="450" height="280" />
 
-### Talking about Personal Stuffs:
+<br />
+
+### Let's talk about engineering Web:
 
 - 👯 &nbsp; Open to work in JavaScript Projects 🤞🏼
-- 🛠 &nbsp; Working with Web Components & React.js 🤩
+- 🛠 &nbsp; Working with Web Components & React.js 🧰
 - 🎯 &nbsp; Focussing mainly on Web Engineering ✨
-- 🚀 &nbsp; Great with CSS & Web Performance 🧐
-- 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/engineeringwitharavind?tab=repositories) 🤓
+- 🚀 &nbsp; Great with CSS & Web Performance Optimization 🧐
 - 💬 &nbsp; Connect with me on Twitter [@EngineeringUX](https://twitter.com/EngineeringUX) 🤗
-- 👾 &nbsp; JavaScript and CSS is 💛
-- 📮 &nbsp; Mail me here: webdev.aravind@gmail.com
+- 📮 &nbsp; Shoot me an email: webdev.aravind@gmail.com
 
-### Tech Stack:
+#### Tech Stack:
 
 <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/html5-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/css3-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -46,7 +44,7 @@ Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chenna
 <!-- <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/storybook-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/mysql-original-wordmark.svg" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 
-### ⚡️ Github Stats:
+#### ⚡️ Stats:
 
 <div>
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineeringwitharavind&show_icons=true&hide_border=false&theme=dracula&layout=compact&langs_count=4" />
@@ -55,6 +53,6 @@ Hi, I'm [Aravind](https://aravind.netlify.app/), a Software Engineer from Chenna
 
 <div align="center">
 
-#### If you like any of my Projects or if it is useful in any way, show some love by giving stars to the repo! It helps. 🙃
+#### If you like any of my Projects or if it is useful in any way, show some love by giving star to the repo! 🙃
 
 </div>

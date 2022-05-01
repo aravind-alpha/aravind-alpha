@@ -22,7 +22,7 @@ I am [Aravind](https://aravind.netlify.app/), a Software Engineer from Chennai, 
 - 👯 &nbsp; Open to work in JavaScript Projects 🤞🏼
 - 🛠 &nbsp; Working with Web Components & React.js 🧰
 - 🎯 &nbsp; Focussing mainly on Web Engineering ✨
-- 🚀 &nbsp; Great with CSS & Web Performance Optimization 🧐
+- 🚀 &nbsp; Great with CSS & optimizing Web Performance 🧐
 - 💬 &nbsp; Connect with me on Twitter [@EngineeringUX](https://twitter.com/EngineeringUX) 🤗
 - 📮 &nbsp; Shoot me an email: webdev.aravind@gmail.com
 

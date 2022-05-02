@@ -13,7 +13,7 @@ I am [Aravind](https://aravind.netlify.app/), a Software Engineer from Chennai, 
   <img align="left" alt="Aravind's LinkedIn" width="30px" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/linkedin.png" />
 </a>
 
-  <img align="right" alt="GIF" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/workplace.gif?raw=true" width="450" height="270" />
+  <img align="right" alt="GIF" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/workplace.gif?raw=true" width="450" height="250" />
 
 <br />
 

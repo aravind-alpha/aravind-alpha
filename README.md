@@ -1,20 +1,18 @@
 #### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am [Aravind](https://aravind.netlify.app/), a Software Engineer from Chennai, India. 
+I am [Aravind](https://aravind.netlify.app/), a Software Engineer from Chennai, India.
 <br />
 
 <a href="https://aravind.netlify.app/">
-  <img align="left" alt="Aravind's Portfolio" width="30px" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/portfolio.png" />
+<img align="left" alt="Aravind's Portfolio" width="30px" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/portfolio.png" />
 </a>
 <a href="https://twitter.com/EngineeringUX">
-  <img align="left" alt="Aravind's Twitter" width="30px" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/twitter.png" />
+<img align="left" alt="Aravind's Twitter" width="30px" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/engineeringwitharavind/">
-  <img align="left" alt="Aravind's LinkedIn" width="30px" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/linkedin.png" />
+<img align="left" alt="Aravind's LinkedIn" width="30px" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/linkedin.png" />
 </a>
-
-  <img align="right" alt="GIF" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/workplace.gif?raw=true" width="450" height="250" />
-
+<!-- <img style="text-align:right;display:block;" alt="Workspace GIF" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/workplace.gif?raw=true" width="450" height="250" /> -->
 <br />
 
 ### Let's talk about engineering Web:
@@ -37,8 +35,9 @@ I am [Aravind](https://aravind.netlify.app/), a Software Engineer from Chennai, 
 <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/nodejs-original-wordmark.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/sass-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/graphql-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/webpack-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/webpack-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/mongodb-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <!-- <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/aws-icon.svg" width="60px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/python-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  -->
 <!-- <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/storybook-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
@@ -52,7 +51,5 @@ I am [Aravind](https://aravind.netlify.app/), a Software Engineer from Chennai, 
 </div>
 
 <div align="center">
-
-#### If you like any of my Projects or if it is useful in any way, show some love by giving star to the repo! 🙃
-
+If you like any of my Projects or if it is useful in any way, show some love by giving star to the repo! 🙃
 </div>

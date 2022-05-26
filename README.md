@@ -15,7 +15,7 @@ I am [Aravind](https://aravind.netlify.app/), a Software Engineer from Chennai, 
 <!-- <img style="text-align:right;display:block;" alt="Workspace GIF" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/workplace.gif?raw=true" width="450" height="250" /> -->
 <br />
 
-### Let's talk about engineering Web:
+### Let's talk about Web:
 
 - 👯 &nbsp; Open to work in JavaScript Projects 🤞🏼
 - 🛠 &nbsp; Working with Web Components & React.js 🤩

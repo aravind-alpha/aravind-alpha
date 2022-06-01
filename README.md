@@ -1,4 +1,4 @@
-#### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+#### Hey there!
 
 I am [Aravind](https://aravind.netlify.app/), a Software Engineer from Chennai, India.
 <br />

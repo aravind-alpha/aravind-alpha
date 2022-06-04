@@ -22,7 +22,6 @@ I am [Aravind](https://aravind.netlify.app/), a Software Engineer from Chennai, 
 - 🎯 &nbsp; Focussing mainly on Web Engineering ⚙️
 - 🚀 &nbsp; CSS & optimizing Web Performance 🧐
 - 💬 &nbsp; Connect with me on Twitter [@EngineeringUX](https://twitter.com/EngineeringUX) ✌🏼
-- 📮 &nbsp; Mail: engineeringwitharavind@gmail.com ✨
 
 #### Tech Stack:
 

@@ -36,8 +36,8 @@ I am [Aravind](https://aravind.netlify.app/), a Software Engineer from Chennai, 
 <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/storybook-icon.svg" width="30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/graphql-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/webpack-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/mongodb-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+<!-- <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/mongodb-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/aws-icon.svg" width="60px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/python-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  -->
 <!-- <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/mysql-original-wordmark.svg" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->

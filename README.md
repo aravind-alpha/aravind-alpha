@@ -15,10 +15,10 @@ I am [Aravind](https://aravind.netlify.app/), a Software Engineer from Chennai, 
 <!-- <img style="text-align:right;display:block;" alt="Workspace GIF" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/workplace.gif?raw=true" width="450" height="250" /> -->
 <br />
 
-### Let's talk about Web:
+#### Let's talk about Web:
 
 - 👯 &nbsp; Open to work in JavaScript Projects 🤞🏼
-- 🛠 &nbsp; Working with Web Components & React.js 🤩
+- 🛠 &nbsp; Working with Web Components & React 🤩
 - 🎯 &nbsp; Focussing mainly on Web Engineering ⚙️
 - 🚀 &nbsp; CSS & optimizing Web Performance 🧐
 - 💬 &nbsp; Connect with me on Twitter [@EngineeringUX](https://twitter.com/EngineeringUX) ✌🏼
@@ -33,13 +33,13 @@ I am [Aravind](https://aravind.netlify.app/), a Software Engineer from Chennai, 
 <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/stenciljs-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/nodejs-original-wordmark.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/sass-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/storybook-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/graphql-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/webpack-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/mongodb-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/aws-icon.svg" width="60px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/python-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  -->
-<!-- <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/storybook-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- <img src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/mysql-original-wordmark.svg" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 
 #### ⚡️ Stats:

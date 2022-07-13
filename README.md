@@ -1,6 +1,6 @@
 #### Hey there!
 
-I am [Aravind](https://aravind.netlify.app/), a Software Engineer from Chennai, India.
+I am [Aravind](https://aravind.netlify.app/), a Frontend Engineer from Chennai, India.
 <br />
 
 <a href="https://aravind.netlify.app/">
@@ -18,9 +18,9 @@ I am [Aravind](https://aravind.netlify.app/), a Software Engineer from Chennai, 
 #### Let's talk about Web:
 
 - 👯 &nbsp; Open to work in JavaScript Projects 🤞🏼
-- 🛠 &nbsp; Working with Web Components & React 🤩
+- 🛠 &nbsp; Working with React and Next.js 🤩
 - 🎯 &nbsp; Focussing mainly on Web Engineering ⚙️
-- 🚀 &nbsp; CSS & optimizing Web Performance 🧐
+- 🚀 &nbsp; CSS, Animations & optimizing Web Performance 🧐
 - 💬 &nbsp; Connect with me on Twitter [@EngineeringUX](https://twitter.com/EngineeringUX) ✌🏼
 
 #### Tech Stack:

@@ -7,10 +7,10 @@ I am [Aravind](https://aravind.netlify.app/), a Frontend Engineer from Chennai, 
 <img align="left" alt="Aravind's Portfolio" width="30px" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/portfolio.png" />
 </a>
 <a href="https://twitter.com/EngineeringUX">
-<img align="left" alt="Aravind's Twitter" width="30px" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/twitter.png" />
+<img align="left" alt="Aravind's Twitter" width="30px" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/twitter-icon.png" />
 </a>
 <a href="https://www.linkedin.com/in/engineeringwitharavind/">
-<img align="left" alt="Aravind's LinkedIn" width="30px" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/linkedin.png" />
+<img align="left" alt="Aravind's LinkedIn" width="30px" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/linkedin-icon.png" />
 </a>
 <!-- <img style="text-align:right;display:block;" alt="Workspace GIF" src="https://github.com/engineeringwitharavind/engineeringwitharavind/blob/main/assets/workplace.gif?raw=true" width="450" height="250" /> -->
 <br />

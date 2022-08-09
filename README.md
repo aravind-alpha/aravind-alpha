@@ -19,7 +19,7 @@ I am [Aravind](https://aravind.netlify.app/), a Frontend Engineer from Chennai, 
 
 - 👯 &nbsp; Open to work in JavaScript Projects 🤞🏼
 - 🛠 &nbsp; Working with React and Next.js 🤩
-- 🎯 &nbsp; Focussing mainly on Web Engineering ⚙️
+- 🎯 &nbsp; Focussing mainly on Web and crafting interfaces ✨
 - 🚀 &nbsp; CSS, Animations & optimizing Web Performance 🧐
 - 💬 &nbsp; Connect with me on Twitter [@EngineeringUX](https://twitter.com/EngineeringUX) ✌🏼
 

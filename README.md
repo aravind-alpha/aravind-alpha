@@ -1,6 +1,6 @@
 #### Hey there!
 
-I am [Aravind](https://aravind.netlify.app/), a Frontend Engineer from Chennai, India.
+I am [Aravind](https://aravind.netlify.app/), from Chennai, India. I craft accessible and performant interfaces.
 <br />
 
 <a href="https://aravind.netlify.app/">
